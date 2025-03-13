@@ -1,21 +1,21 @@
 const translation = {
   common: {
-    welcome: 'Welcome to use',
-    appUnavailable: 'App is unavailable',
-    appUnkonwError: 'App is unavailable',
+    welcome: 'Živjo!',
+    appUnavailable: 'Vika ni dosegljiva',
+    appUnkonwError: 'Vika ni dosegljiva',
   },
   chat: {
-    newChat: 'Novi klepet',
-    newChatDefaultName: 'Novi pogovor',
+    newChat: 'Nov klepet',
+    newChatDefaultName: 'Nov pogovor',
     openingStatementTitle: 'Opening statement',
-    powerBy: 'Powered by',
+    powerBy: 'Poganja',
     prompt: 'Prompt',
     privatePromptConfigTitle: 'Conversation settings',
     publicPromptConfigTitle: 'Initial Prompt',
     configStatusDes: 'Before start, you can modify conversation settings',
     configDisabled:
       'Previous session settings have been used for this session.',
-    startChat: 'Start Chat',
+    startChat: 'Začni pogovor',
     privacyPolicyLeft:
       'Please read the ',
     privacyPolicyMiddle:
